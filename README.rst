@@ -1,7 +1,7 @@
-This is the repo for my training project FAKEGRAM
+INSTALITE
 =====================================================
 
-It's a fake instagram built using reactjs and django::
+Instalite is an instagram clone  built using reactjs and django::
 
 The backend is a django-restframework API
 -------------------------------------------
@@ -23,3 +23,8 @@ The frontend is built in reactjs
 	
 	$ yarn start
 Navigate to http://127.0.0.1:3000 and you will see the application. 
+
+TODO
+Use Reacthooks 
+Dockerize the application
+Deploy to AWS
